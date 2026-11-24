@@ -1,4 +1,4 @@
-const VERSION = "711044a5e7";
+const VERSION = "44eaf0a8b1";
 const SHELL = `thai-hub-shell-${VERSION}`;
 const RUNTIME = "thai-hub-runtime-v1";
 const SHELL_FILES = ["./", "index.html", "manifest.webmanifest", "css/styles.css", "js/data.js", "js/rom.js", "js/thai.js", "js/core.js", "js/ui.js", "js/learn.js", "js/script.js", "js/tones.js", "js/words.js", "js/tools.js", "js/pwa.js", "js/offline.js", "js/views.js", "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/apple-touch-icon.png", "icons/favicon-32.png"];

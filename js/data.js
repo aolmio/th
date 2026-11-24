@@ -1226,7 +1226,272 @@ const RAW_VOCAB = `สวัสดี|sa2-wat2-dii1|int|hello; goodbye|1|greet|�
 ภูเขาไฟ|puu1-kao5-fai1|n|volcano|4|nature|ภูเขาไฟลูกนี้ยังไม่ดับ|This volcano is still active
 แผ่นดินไหว|pɛɛn2-din1-wai5|n|earthquake|4|nature|เกิดแผ่นดินไหวเมื่อคืนนี้|An earthquake occurred last night
 น้ำท่วม|naam4-tuam3|n|flood|4|nature|น้ำท่วมทำให้การเดินทางลำบาก|The flood made travel difficult
-ภัยแล้ง|pai1-lɛɛng4|n|drought|4|nature|ภัยแล้งทำให้พืชผลเสียหาย|The drought damaged crops`;
+ภัยแล้ง|pai1-lɛɛng4|n|drought|4|nature|ภัยแล้งทำให้พืชผลเสียหาย|The drought damaged crops
+ความสามารถ|kwaam1-saa5-maat3|n|ability|3|work|เธอมีความสามารถมาก|She has great ability
+นอนไม่หลับ|nɔɔn1-mai3-lap2|v|to be unable to sleep|3|health|เมื่อคืนฉันนอนไม่หลับ|I could not sleep last night
+ประหลาดใจ|bpra2-laat2-jai1|adj|surprised|3|feelings|ฉันประหลาดใจมากที่เห็นเขา|I was very surprised to see him
+บัตรเครดิต|bat2-kree1-dit2|n|credit card|3|money|ร้านนี้รับบัตรเครดิตไหม|Does this shop take credit cards?
+สอบผ่าน|sɔɔp2-paan2|v|to pass an exam|3|school|ฉันสอบผ่านแล้ว|I passed the exam
+สอบตก|sɔɔp2-dtok2|v|to fail an exam|3|school||
+บทเรียน|bot2-rian1|n|lesson|3|school|บทเรียนนี้ไม่ยาก|This lesson is not difficult
+หัวข้อ|hua5-kɔɔ3|n|topic|3|school|หัวข้อวันนี้คืออะไร|What is today's topic?
+ดาวน์โหลด|daao1-loot2|v|to download|3|tech|ฉันดาวน์โหลดแอปแล้ว|I have downloaded the app
+อัปโหลด|ap2-loot2|v|to upload|3|tech||
+ติดตั้ง|dtit2-dtang3|v|to install|3|tech|ช่วยติดตั้งโปรแกรมนี้หน่อย|Please install this program
+โปรแกรม|bproo1-grɛɛm1|n|program|3|tech||
+แอปพลิเคชัน|ɛɛp2-pli4-kee1-chan1|n|application|3|tech||
+แบตเตอรี่|bɛɛt2-dtɤɤ1-rii3|n|battery|3|tech|แบตเตอรี่ใกล้หมดแล้ว|The battery is almost dead
+หน้าจอ|naa3-jɔɔ1|n|screen|3|tech|หน้าจอแตก|The screen is cracked
+คีย์บอร์ด|kii1-bɔɔt2|n|keyboard|3|tech||
+นิตยสาร|nit4-dta2-ya4-saan5|n|magazine|3|culture||
+โฆษณา|koot3-sa2-naa1|n|advertisement|3|culture||
+รายการ|raai1-gaan1|n|programme; list|3|culture|รายการนี้สนุกมาก|This programme is very fun
+ทะเลสาบ|ta4-lee1-saap2|n|lake|3|nature||
+สัตว์เลี้ยง|sat2-liang4|n|pet|3|animals|ฉันมีสัตว์เลี้ยงสองตัว|I have two pets
+สิงโต|sing5-dtoo1|n|lion|3|animals||
+สถานทูต|sa2-taan5-tuut3|n|embassy|3|travel||
+ทางแยก|taang1-yɛɛk3|n|junction|3|city||
+ทางด่วน|taang1-duan2|n|expressway|3|transport||
+ที่จอดรถ|tii3-jɔɔt2-rot4|n|parking|3|transport|ที่จอดรถเต็มแล้ว|The parking is full
+ปีนเขา|bpiin1-kao5|v|to climb mountains|3|hobby||
+เฟอร์นิเจอร์|fɤɤ1-ni4-jɤɤ1|n|furniture|3|home||
+เครื่องซักผ้า|krɯang3-sak4-paa3|n|washing machine|3|home||
+เครื่องปรับอากาศ|krɯang3-bprap2-aa1-gaat2|n|air conditioner|3|home||
+ทำความสะอาด|tam1-kwaam1-sa2-aat2|v|to clean|3|home|เราทำความสะอาดบ้านวันเสาร์|We clean the house on Saturday
+ใจร้อน|jai1-rɔɔn4|adj|impatient|3|adjs||
+เข้าใจผิด|kao3-jai1-pit2|v|to misunderstand|3|verbs|ขอโทษ ฉันเข้าใจผิด|Sorry, I misunderstood
+แบ่ง|bɛɛng2|v|to divide; to share|3|verbs|เราแบ่งขนมกัน|We share the snacks
+รัฐธรรมนูญ|rat4-ta2-tam1-ma2-nuun1|n|constitution|4|abstract||
+ผู้พิพากษา|puu3-pi4-paak3-saa5|n|judge|4|work||
+ความยากจน|kwaam1-yaak3-jon1|n|poverty|4|abstract||
+การศึกษา|gaan1-sɯk2-saa5|n|education|4|school|การศึกษาสำคัญมาก|Education is very important
+ปัญญาประดิษฐ์|bpan1-yaa1-bpra2-dit2|n|artificial intelligence|4|tech||
+การค้า|gaan1-kaa4|n|trade|4|money||
+หุ้น|hun3|n|share; stock|4|money||
+บริการ|bɔɔ1-ri4-gaan1|n|service|4|shop|บริการที่นี่ดีมาก|The service here is very good
+คุณภาพ|kun1-na4-paap3|n|quality|4|shop||
+การเกษตร|gaan1-ga2-seet2|n|agriculture|4|nature||
+ภาวะโลกร้อน|paa1-wa4-look3-rɔɔn4|n|global warming|4|nature||
+ความยั่งยืน|kwaam1-yang3-yɯɯn1|n|sustainability|4|nature||
+ความขัดแย้ง|kwaam1-kat2-yɛɛng4|n|conflict|4|abstract||
+สงคราม|song5-kraam1|n|war|4|abstract||
+สันติภาพ|san5-dti2-paap3|n|peace|4|abstract||
+ความร่วมมือ|kwaam1-ruam3-mɯɯ1|n|cooperation|4|work|ขอบคุณสำหรับความร่วมมือ|Thank you for your cooperation
+แนวโน้ม|nɛɛo1-noom4|n|trend|4|abstract||
+สถิติ|sa2-ti2-dti2|n|statistics|4|abstract||
+ทฤษฎี|trit4-sa2-dii1|n|theory|4|school||
+หลักการ|lak2-gaan1|n|principle|4|abstract||
+จุดประสงค์|jut2-bpra2-song5|n|purpose|4|abstract||
+ความท้าทาย|kwaam1-taa4-taai1|n|challenge|4|abstract||
+ความหวัง|kwaam1-wang5|n|hope|4|feelings|ฉันยังมีความหวัง|I still have hope
+ศีลธรรม|siin5-la2-tam1|n|morality|4|abstract||
+จริยธรรม|ja2-ri4-ya4-tam1|n|ethics|4|abstract||
+จิตใจ|jit2-jai1|n|mind; spirit|4|feelings||
+อารมณ์|aa1-rom1|n|mood; emotion|4|feelings|วันนี้อารมณ์ดี|I am in a good mood today
+บุคลิกภาพ|buk2-ka2-lik4-ga2-paap3|n|personality|4|people||
+พฤติกรรม|pɯt4-dti2-gam1|n|behaviour|4|people||
+นิสัย|ni4-sai5|n|habit; character|4|people|เขามีนิสัยดี|He has a good character
+ความเชื่อ|kwaam1-chɯa3|n|belief|4|culture||
+ความไว้วางใจ|kwaam1-wai4-waang1-jai1|n|trust|4|feelings||
+ความเคารพ|kwaam1-kao1-rop4|n|respect|4|feelings||
+ความเห็นอกเห็นใจ|kwaam1-hen5-ok2-hen5-jai1|n|empathy|4|feelings||
+โต้แย้ง|dtoo3-yɛɛng4|v|to argue against|4|verbs||
+วิพากษ์วิจารณ์|wi4-paak3-wi4-jaan1|v|to criticize|4|verbs||
+ยกย่อง|yok4-yɔɔng3|v|to praise|4|verbs||
+ตำหนิ|dtam1-ni2|v|to blame|4|verbs||
+บรรลุ|ban1-lu4|v|to achieve|4|verbs||
+บริหาร|bɔɔ1-ri4-haan5|v|to manage|4|verbs||
+กำหนด|gam1-not2|v|to set; to determine|4|verbs|เรากำหนดวันประชุมแล้ว|We have set the meeting date
+รับรอง|rap4-rɔɔng1|v|to guarantee|4|verbs||
+ชดเชย|chot4-chɤɤi1|v|to compensate|4|verbs||
+ประท้วง|bpra2-tuang4|v|to protest|4|verbs||
+ลงคะแนน|long1-ka4-nɛɛn1|v|to vote|4|verbs||
+รณรงค์|ron1-na4-rong1|v|to campaign|4|verbs||
+บังคับ|bang1-kap4|v|to force|4|verbs||
+สร้างสรรค์|saang3-san5|adj|creative; constructive|4|adjs||
+ประดิษฐ์|bpra2-dit2|v|to invent|4|verbs||
+เผยแพร่|pɤɤi5-prɛɛ3|v|to publish; to spread|4|verbs||
+สื่อสาร|sɯɯ2-saan5|v|to communicate|4|verbs|เราสื่อสารกันได้ดี|We communicate well
+ปรึกษา|bprɯk2-saa5|v|to consult|4|verbs|ฉันอยากปรึกษาหมอ|I want to consult a doctor
+ครอบคลุม|krɔɔp3-klum1|adj|comprehensive|4|adjs||
+หลากหลาย|laak2-laai5|adj|diverse|4|adjs|อาหารไทยหลากหลายมาก|Thai food is very diverse
+ผ่อนคลาย|pɔɔn2-klaai1|adj|relaxed|4|adjs||
+ลังเล|lang1-lee1|adj|hesitant|4|feelings||
+ถ่อมตัว|tɔɔm2-dtua1|adj|modest|4|adjs||
+หยิ่ง|ying2|adj|arrogant|4|adjs||
+เห็นแก่ตัว|hen5-gɛɛ2-dtua1|adj|selfish|4|adjs||
+อย่างไรก็ตาม|yaang2-rai1-gɔɔ3-dtaam1|conj|however|4|abstract|อย่างไรก็ตาม ฉันยังไปได้|However, I can still go
+เนื่องจาก|nɯang3-jaak2|conj|because of|4|abstract||
+ถึงแม้ว่า|tɯng5-mɛɛ4-waa3|conj|although|4|abstract||
+นอกจากนี้|nɔɔk3-jaak2-nii4|conj|besides this|4|abstract||
+โดยเฉพาะ|dooi1-cha2-pɔ2|adv|especially|4|abstract|ฉันชอบผลไม้ โดยเฉพาะมะม่วง|I like fruit, especially mango
+โดยทั่วไป|dooi1-tua3-bpai1|adv|generally|4|abstract||
+ในที่สุด|nai1-tii3-sut2|adv|finally; in the end|4|abstract|ในที่สุดเราก็ถึงแล้ว|We have finally arrived
+อย่างน้อย|yaang2-nɔɔi4|adv|at least|4|abstract|อย่างน้อยก็ปลอดภัย|At least it is safe
+โดยตรง|dooi1-dtrong1|adv|directly|4|abstract||
+ค่อยเป็นค่อยไป|kɔɔi3-bpen1-kɔɔi3-bpai1|adv|gradually|4|abstract||
+ต้มยำกุ้ง|dtom3-yam1-gung3|n|tom yum shrimp soup|2|food|ฉันชอบต้มยำกุ้งมาก|I really like tom yum goong
+ส้มตำ|som3-dtam1|n|papaya salad|2|food|ส้มตำจานนี้เผ็ดมาก|This papaya salad is very spicy
+ผัดไทย|pat2-tai1|n|pad thai|2|food|ผัดไทยร้านนี้อร่อย|The pad thai at this shop is delicious
+แกงเขียวหวาน|gɛɛng1-kiao5-waan5|n|green curry|2|food||
+แกงมัสมั่น|gɛɛng1-mat4-sa2-man2|n|massaman curry|3|food||
+ข้าวผัด|kaao3-pat2|n|fried rice|1|food|ขอข้าวผัดหนึ่งจาน|One fried rice, please
+ข้าวมันไก่|kaao3-man1-gai2|n|chicken rice|2|food||
+ข้าวเหนียว|kaao3-niao5|n|sticky rice|2|food|ข้าวเหนียวกินกับหมูปิ้ง|Sticky rice goes with grilled pork
+มะม่วงข้าวเหนียว|ma4-muang3-kaao3-niao5|n|mango sticky rice|2|food||
+ไข่เจียว|kai2-jiao1|n|omelette|2|food||
+ลาบ|laap3|n|minced meat salad (larb)|3|food||
+น้ำพริก|nam4-prik4|n|chili dip|3|food||
+ปลาทอด|bplaa1-tɔɔt3|n|fried fish|2|food||
+หมูกรอบ|muu5-grɔɔp2|n|crispy pork|2|food||
+ไก่ย่าง|gai2-yaang3|n|grilled chicken|2|food|ไก่ย่างกินกับส้มตำ|Grilled chicken goes with papaya salad
+น้ำปลา|nam4-bplaa1|n|fish sauce|2|food|ใส่น้ำปลานิดหน่อย|Add a little fish sauce
+ขิง|king5|n|ginger|2|food||
+ตะไคร้|dta2-krai4|n|lemongrass|3|food||
+ไอศกรีม|ai1-sa2-griim1|n|ice cream|1|food|เด็กๆ ชอบไอศกรีม|Kids like ice cream
+ช็อกโกแลต|chɔk4-goo1-lɛɛt3|n|chocolate|2|food||
+ขนมหวาน|ka2-nom5-waan5|n|dessert|2|food||
+ชานม|chaa1-nom5|n|milk tea|2|drink|ขอชานมเย็นแก้วหนึ่ง|One iced milk tea, please
+ไวน์|wai1|n|wine|2|drink||
+แครอท|kɛɛ1-rɔɔt3|n|carrot|2|fruitveg||
+กะหล่ำปลี|ga2-lam2-bplii1|n|cabbage|3|fruitveg||
+เห็ด|het2|n|mushroom|2|fruitveg||
+เงาะ|ngɔ4|n|rambutan|2|fruitveg||
+มังคุด|mang1-kut4|n|mangosteen|2|fruitveg||
+ลำไย|lam1-yai1|n|longan|3|fruitveg||
+ส้มโอ|som3-oo1|n|pomelo|3|fruitveg||
+สตรอว์เบอร์รี|sa2-dtrɔɔ1-bɤɤ1-rii1|n|strawberry|3|fruitveg||
+มะพร้าว|ma4-praao4|n|coconut|2|fruitveg|น้ำมะพร้าวหวานมาก|Coconut water is very sweet
+ลูกชิ้น|luuk3-chin4|n|meatball|2|food||
+หมูปิ้ง|muu5-bping3|n|grilled pork skewer|2|food||
+ไส้กรอก|sai3-grɔɔk2|n|sausage|2|food||
+แฮม|hɛɛm1|n|ham|3|food||
+ปลาหมึก|bplaa1-mɯk2|n|squid|2|animals||
+หอย|hɔɔi5|n|shellfish|2|animals||
+ปลาทู|bplaa1-tuu1|n|mackerel|3|animals||
+จิ้งจก|jing3-jok2|n|house lizard|3|animals||
+ผีเสื้อ|pii5-sɯa3|n|butterfly|2|animals||
+เต่า|dtao2|n|turtle|2|animals||
+กบ|gop2|n|frog|2|animals||
+หมี|mii5|n|bear|2|animals||
+กระต่าย|gra2-dtaai2|n|rabbit|2|animals||
+แพะ|pɛ4|n|goat|3|animals||
+แกะ|gɛ2|n|sheep|3|animals||
+ห่าน|haan2|n|goose|3|animals||
+ฟ้าแลบ|faa4-lɛɛp3|n|lightning|3|weather||
+ลมแรง|lom1-rɛɛng1|n|strong wind|2|weather||
+ฤดูร้อน|rɯ4-duu1-rɔɔn4|n|summer; hot season|2|weather||
+ฤดูหนาว|rɯ4-duu1-naao5|n|cold season|2|weather||
+ฤดูฝน|rɯ4-duu1-fon5|n|rainy season|2|weather||
+ปอด|bpɔɔt2|n|lung|3|body||
+กระเพาะ|gra2-pɔ4|n|stomach|3|body||
+ตับ|dtap2|n|liver|3|body||
+กระดูก|gra2-duuk2|n|bone|2|body|เขาเจ็บกระดูก|His bone hurts
+กล้ามเนื้อ|glaam3-nɯa4|n|muscle|3|body||
+ผิว|piu5|n|skin|2|body||
+คิ้ว|kiu4|n|eyebrow|2|body||
+ขนตา|kon5-dtaa1|n|eyelash|3|body||
+ริมฝีปาก|rim1-fii5-bpaak2|n|lips|3|body||
+ลิ้น|lin4|n|tongue|2|body||
+คอ|kɔɔ1|n|neck; throat|1|body||
+ไหล่|lai2|n|shoulder|2|body||
+ข้อศอก|kɔɔ3-sɔɔk2|n|elbow|3|body||
+นิ้ว|niu4|n|finger|1|body||
+เล็บ|lep4|n|nail|2|body||
+เข่า|kao2|n|knee|2|body||
+ข้อเท้า|kɔɔ3-tao4|n|ankle|3|body||
+ส้นเท้า|son3-tao4|n|heel|3|body||
+เอว|eo1|n|waist|2|body||
+หน้าผาก|naa3-paak2|n|forehead|2|body||
+แก้ม|gɛɛm3|n|cheek|2|body||
+เหงือก|ngɯak2|n|gums|3|body||
+เลือด|lɯat3|n|blood|2|body|เขามีเลือดออก|He is bleeding
+เหงื่อ|ngɯa2|n|sweat|2|body||
+น้ำตา|nam4-dtaa1|n|tear|2|body||
+แผล|plɛɛ5|n|wound|2|health||
+จาม|jaam1|v|to sneeze|2|health||
+เจ็บคอ|jep2-kɔɔ1|v|to have a sore throat|2|health||
+ปวดหัว|bpuat2-hua5|v|to have a headache|1|health||
+ปวดท้อง|bpuat2-tɔɔng4|v|to have a stomachache|1|health||
+คลื่นไส้|klɯɯn3-sai3|v|to feel nauseous|3|health||
+เวียนหัว|wian1-hua5|v|to feel dizzy|3|health||
+ยาแก้ปวด|yaa1-gɛɛ3-bpuat2|n|painkiller|3|health||
+เข็ม|kem5|n|needle|2|health||
+ใบสั่งยา|bai1-sang2-yaa1|n|prescription|3|health||
+หมอฟัน|mɔɔ5-fan1|n|dentist|2|health||
+เภสัชกร|pee1-sat2-cha2-gɔɔn1|n|pharmacist|3|work||
+ห้องฉุกเฉิน|hɔɔng3-chuk2-chɤɤn5|n|emergency room|3|health||
+รถพยาบาล|rot4-pa4-yaa1-baan1|n|ambulance|2|health||
+สถาปนิก|sa2-taa5-bpa2-nik4|n|architect|3|work||
+นักบัญชี|nak4-ban1-chii1|n|accountant|3|work||
+ช่างตัดผม|chaang3-dtat2-pom5|n|barber|3|work||
+ช่างไฟ|chaang3-fai1|n|electrician|3|work||
+คนขับรถ|kon1-kap2-rot4|n|driver|2|work||
+พ่อครัว|pɔɔ3-krua1|n|cook; chef|2|work||
+ชาวประมง|chaao1-bpra2-mong1|n|fisherman|3|work||
+นักบิน|nak4-bin1|n|pilot|2|work||
+แอร์โฮสเตส|ɛɛ1-hoot2-dteet2|n|flight attendant|3|work||
+จิตรกร|jit2-dta2-gɔɔn1|n|painter|3|work||
+ช่างภาพ|chaang3-paap3|n|photographer|2|work||
+นักวิทยาศาสตร์|nak4-wit4-ta4-yaa1-saat2|n|scientist|3|work||
+เลขานุการ|lee1-kaa5-nu4-gaan1|n|secretary|4|work||
+ผู้ช่วย|puu3-chuai3|n|assistant|3|work||
+ลูกจ้าง|luuk3-jaang3|n|employee|3|work||
+นายจ้าง|naai1-jaang3|n|employer|3|work||
+ว่างงาน|waang3-ngaan1|v|to be unemployed|3|work||
+เกษียณ|ga2-sian5|v|to retire|4|work||
+บาสเกตบอล|baat2-sa2-get2-bɔɔn1|n|basketball|2|hobby||
+วอลเลย์บอล|wɔɔn1-lee1-bɔɔn1|n|volleyball|3|hobby||
+แบดมินตัน|bɛɛt2-min1-dtan1|n|badminton|2|hobby||
+มวยไทย|muai1-tai1|n|Thai boxing|2|hobby|มวยไทยมีชื่อเสียงมาก|Muay Thai is very famous
+เดินป่า|dɤɤn1-bpaa2|v|to hike|3|hobby||
+โยคะ|yoo1-ka4|n|yoga|2|hobby||
+ฟิตเนส|fit4-neet3|n|gym|3|hobby||
+เต้น|dteen3|v|to dance|1|hobby||
+เล่นกีตาร์|leen3-gii1-dtaa1|v|to play guitar|2|hobby||
+ทำขนม|tam1-ka2-nom5|v|to bake|2|hobby||
+เย็บผ้า|yep4-paa3|v|to sew|3|hobby||
+ปลูกผัก|bpluuk2-pak2|v|to grow vegetables|3|hobby||
+เลี้ยงแมว|liang4-mɛɛo1|v|to keep a cat|2|hobby||
+ตลาดนัด|dta2-laat2-nat4|n|weekend market|2|city||
+ตลาดน้ำ|dta2-laat2-nam4|n|floating market|2|city||
+สวนสาธารณะ|suan5-saa5-taa1-ra4-na4|n|public park|2|city||
+โบสถ์|boot2|n|church|3|city||
+มัสยิด|mat4-sa2-yit4|n|mosque|3|city||
+สถานีรถไฟ|sa2-taa5-nii1-rot4-fai1|n|train station|2|transport||
+สถานีขนส่ง|sa2-taa5-nii1-kon5-song2|n|bus terminal|3|transport||
+ท่าเรือ|taa3-rɯa1|n|pier|3|transport||
+ป้ายรถเมล์|bpaai3-rot4-mee1|n|bus stop|2|transport||
+ตรอก|dtrɔɔk2|n|alley|3|city||
+ถนนใหญ่|ta2-non5-yai2|n|main road|2|city||
+ตู้เอทีเอ็ม|dtuu3-ee1-tii1-em1|n|ATM|2|money||
+ร้านยา|raan4-yaa1|n|pharmacy|2|shop||
+ร้านขายของชำ|raan4-kaai5-kɔɔng5-cham1|n|grocery store|3|shop||
+ร้านตัดผม|raan4-dtat2-pom5|n|hair salon|2|shop||
+ร้านซักรีด|raan4-sak4-riit3|n|laundry shop|3|shop||
+ร้านหนังสือ|raan4-nang5-sɯɯ5|n|bookstore|1|shop||
+สถานีตำรวจ|sa2-taa5-nii1-dtam1-ruat3|n|police station|2|city||
+กระดานดำ|gra2-daan1-dam1|n|blackboard|2|school||
+ยางลบ|yaang1-lop4|n|eraser|2|school||
+ไม้บรรทัด|maai4-ban1-tat4|n|ruler|3|school||
+กรรไกร|gan1-grai1|n|scissors|2|school||
+กาว|gaao1|n|glue|3|school||
+กระเป๋านักเรียน|gra2-bpao5-nak4-rian1|n|school bag|2|school||
+พจนานุกรม|pot4-ja2-naa1-nu2-grom1|n|dictionary|3|school||
+สำเนียง|sam5-niang1|n|accent|3|school||
+ภาษาอังกฤษ|paa1-saa5-ang1-grit2|n|English language|1|school||
+ภาษาจีน|paa1-saa5-jiin1|n|Chinese language|1|school||
+ภาษาญี่ปุ่น|paa1-saa5-yii3-bpun2|n|Japanese language|1|school||
+ภาษาเกาหลี|paa1-saa5-gao1-lii5|n|Korean language|1|school||
+ภาษาพม่า|paa1-saa5-pa4-maa3|n|Burmese language|2|school||
+คณิตศาสตร์|ka4-nit4-dta2-saat2|n|mathematics|2|school||
+เคมี|kee1-mii1|n|chemistry|3|school||
+ฟิสิกส์|fi4-sik2|n|physics|3|school||
+ชีววิทยา|chii1-wa4-wit4-ta4-yaa1|n|biology|3|school||
+ภูมิศาสตร์|puu1-mi4-saat2|n|geography|3|school||
+เกรด|greet2|n|grade|2|school||
+ปริญญาโท|bpa2-rin1-yaa1-too1|n|master's degree|4|school||
+ปริญญาเอก|bpa2-rin1-yaa1-eek2|n|doctorate|4|school||`;
 const RAW_FUNC = `@particles|Particles|คำลงท้าย|Ending particles|pen|Short words at the end of a sentence that carry politeness, mood and attitude. They have no dictionary meaning, yet without them speech sounds blunt or unnatural.|Men end polite sentences with ครับ and women with ค่ะ (statements) or คะ (questions).;;Particles are unstressed and short: they carry the speaker's tone, softening or emphasis.;;Stack particles for nuance: ก็ได้นะครับ, ไปแล้วนะคะ.;;Dropping the particle is fine with close friends, but rude with strangers or elders.
 #Politeness
 ครับ|krap4|polite particle (male speaker)|1|ขอบคุณครับ|Thank you

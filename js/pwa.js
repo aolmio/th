@@ -1,5 +1,5 @@
 "use strict";
-const APP_VERSION = "711044a5e7";
+const APP_VERSION = "44eaf0a8b1";
 const ASK_KEY = "thai_hub_install_asked";
 const PWA = { reg: null, deferred: null, timer: null, reloading: false };
 
